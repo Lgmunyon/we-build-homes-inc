@@ -1,3 +1,5 @@
+Preview: https://htmlpreview.github.io/?
+
 Modern, simple, and elegant build for companys that build homes! Still in progress.
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
