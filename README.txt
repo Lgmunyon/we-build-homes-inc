@@ -1,4 +1,4 @@
-Preview: https://htmlpreview.github.io/?
+Preview: htmlpreview.github.io/?https://github.com/Lgmunyon/we-build-homes-inc/blob/main/index.html
 
 Modern, simple, and elegant build for companys that build homes! Still in progress.
 
