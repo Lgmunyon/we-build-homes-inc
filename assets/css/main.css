@@ -2187,7 +2187,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: rgb(128,0,0.7);
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -3141,15 +3141,15 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: maroon;
+			border-color: rgb(128,0,0,.7);
 		}
 
 		.spotlight.style2 .content {
-			border-color: maroon;
+			border-color: rgb(128,0,0,.7);
 		}
 
 		.spotlight.style3 .content {
-			border-color: maroon;
+			border-color: rgb(128,0,0,.7);
 		}
 
 		.spotlight.inactive .content {
@@ -3203,7 +3203,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: maroon;
+			background: rgb(128,0,0);
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3444,7 +3444,7 @@ input, select, textarea {
 	}
 
 	body.landing #header {
-		background: maroon;
+		background: rgb(128,0,0,.7);
 		box-shadow: none;
 		position: absolute;
 	}
